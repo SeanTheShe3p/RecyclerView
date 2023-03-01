@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
         items.add(MyModel(R.drawable.s7,"Spinner 7"))
         items.add(MyModel(R.drawable.s8,"Spinner 8"))
         items.add(MyModel(R.drawable.s9,"Spinner 9"))
-        items.add(MyModel(R.drawable.s10,"Spinner 10"))
+        items.add(MyModel(R.drawable.s30,"Spinner 10"))
         items.add(MyModel(R.drawable.s11,"Spinner 11"))
         items.add(MyModel(R.drawable.s12,"Spinner 12"))
         items.add(MyModel(R.drawable.s13,"Spinner 13"))
